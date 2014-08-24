@@ -60,4 +60,4 @@ tidydata[3:4] <- list(NULL)
 # 5 Exporting data set #
 
 setwd("C:\\Users\\Cristobal\\Dropbox\\Data Science Coursera\\3 Getting and Cleaning Data")
-write.table(tidydata, file = "CourseProjectData.txt")
+write.table(tidydata, file = "CourseProjectData.txt", row.names = FALSE)
