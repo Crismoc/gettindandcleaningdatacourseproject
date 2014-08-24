@@ -1,6 +1,5 @@
 # Code Book for TidyData from Human Activity Recognition Using Smartphones Dataset
 
-## Variables include number of column, name, range and values
 ### Variables from 3 to 81 consist on average of mean and standard deviation measurements from the "Human Activity Recognition Using Smartphones Data Set". 
 According to the study description, this variables from 3 to 81 can be read corresponding to the next description:
 
@@ -13,6 +12,7 @@ According to the study description, this variables from 3 to 81 can be read corr
 "These signals were used to estimate variables of the feature vector for each pattern:  
 '-XYZ' is used to denote 3-axial signals in the X, Y and Z directions"
 
+## Variables 
 
 1 "subject" 
 
